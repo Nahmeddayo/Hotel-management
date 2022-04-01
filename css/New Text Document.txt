@@ -1,0 +1,19 @@
+.text-field{
+ -fx-border-width: 2;
+ -fx-border-color: white;   
+     
+
+}
+.text-field:hover{
+
+ -fx-border-width: 2;
+ -fx-border-color: #909090;
+    
+}
+
+
+.text-field:focused{
+ -fx-border-width: 2;
+ -fx-border-color: #0093EF;
+ 
+}
